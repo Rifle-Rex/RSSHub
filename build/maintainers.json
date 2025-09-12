@@ -4393,6 +4393,9 @@
   "/javtrailers/studios/:studio": [
     "TonyRL"
   ],
+  "/jbma/report/:filter{.+}?": [
+    "nczitzk"
+  ],
   "/jd/price/:id": [
     "nczitzk"
   ],
@@ -5356,6 +5359,9 @@
   ],
   "/mysql/release/:version?": [
     "nczitzk"
+  ],
+  "/nankai/ai/:type?": [
+    "LMark"
   ],
   "/nankai/cc/:type?": [
     "vicguo0724"
@@ -8120,7 +8126,7 @@
   "/u9a9/search/:keyword/:preview?": [
     "TonyRL"
   ],
-  "/uber/blog/:maxPage?": [
+  "/uber/blog/:compat?": [
     "hulb"
   ],
   "/ucas/ai": [
@@ -8728,9 +8734,6 @@
     "lengthmin",
     "jjeejj",
     "prnake"
-  ],
-  "/xinhuanet/app": [
-    "nczitzk"
   ],
   "/xinpianchang/discover/:params?": [
     "nczitzk"
